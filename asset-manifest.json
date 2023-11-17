@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5a23215.css",
-    "main.js": "/static/js/main.69ba0502.js",
-    "static/media/image.png": "/static/media/image.00cdf3615da8d4c54ace.png",
-    "static/media/portfolio-6.png": "/static/media/portfolio-6.4a10fac7d271e87859e9.png",
-    "static/media/portfolio-2.png": "/static/media/portfolio-2.33d06b368b4e6395030e.png",
-    "static/media/portfolio-4.png": "/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
-    "static/media/portfolio-1.png": "/static/media/portfolio-1.b33adf772d54ab33e953.png",
-    "static/media/portfolio-5.png": "/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
-    "static/media/portfolio-3.png": "/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
-    "static/media/facebook.png": "/static/media/facebook.81dd033a37c4860f7121.png",
-    "static/media/adobe.png": "/static/media/adobe.a08b8360ff7b700ed0c4.png",
-    "static/media/walmart.png": "/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
-    "static/media/ui-design.png": "/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
-    "index.html": "/index.html",
-    "main.f5a23215.css.map": "/static/css/main.f5a23215.css.map",
-    "main.69ba0502.js.map": "/static/js/main.69ba0502.js.map"
+    "main.css": "/React-Portfolio/static/css/main.f5a23215.css",
+    "main.js": "/React-Portfolio/static/js/main.e9399dd0.js",
+    "static/media/image.png": "/React-Portfolio/static/media/image.00cdf3615da8d4c54ace.png",
+    "static/media/portfolio-6.png": "/React-Portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/React-Portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/React-Portfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/React-Portfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/React-Portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/React-Portfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/facebook.png": "/React-Portfolio/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/React-Portfolio/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/React-Portfolio/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/ui-design.png": "/React-Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/React-Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.f5a23215.css.map": "/React-Portfolio/static/css/main.f5a23215.css.map",
+    "main.e9399dd0.js.map": "/React-Portfolio/static/js/main.e9399dd0.js.map"
   },
   "entrypoints": [
     "static/css/main.f5a23215.css",
-    "static/js/main.69ba0502.js"
+    "static/js/main.e9399dd0.js"
   ]
 }
